@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<countries>
+    <country num="1">
+        <nameInRussian>Россия</nameInRussian>
+        <nameInEnglish>Russia</nameInEnglish>
+        <countryCode>RUS</countryCode>
+        <currencyCode>643</currencyCode>
+        <cities>
+            <city num="1">
+                <nameInRussian>Москва</nameInRussian>
+                <nameInEnglish>Moscow</nameInEnglish>
+                <population>11920000</population>
+            </city>
+            <city num="2">
+                <nameInRussian>Санкт-Петербург</nameInRussian>
+                <nameInEnglish>Saint Petersburg</nameInEnglish>
+                <population>4991000</population>
+            </city>
+            <city num="3">
+                <nameInRussian>Новосибирск</nameInRussian>
+                <nameInEnglish>Novosibirsk</nameInEnglish>
+                <population>1511000</population>
+            </city>
+        </cities>
+    </country>
+    <country num="2">
+        <nameInRussian>Соединенные Штаты Америки</nameInRussian>
+        <nameInEnglish>United States of America</nameInEnglish>
+        <countryCode>USA</countryCode>
+        <currencyCode>840</currencyCode>
+        <cities>
+            <city num="1">
+                <nameInRussian>Нью-Йорк</nameInRussian>
+                <nameInEnglish>New York</nameInEnglish>
+                <population>8175133</population>
+            </city>
+            <city num="2">
+                <nameInRussian>Лос-Анджелес</nameInRussian>
+                <nameInEnglish>Los Angeles</nameInEnglish>
+                <population>3792621</population>
+            </city>
+            <city num="3">
+                <nameInRussian>Чикаго</nameInRussian>
+                <nameInEnglish>Chicago</nameInEnglish>
+                <population>2695598</population>
+            </city>
+        </cities>
+    </country>
+    <country num="3">
+        <nameInRussian>Канада</nameInRussian>
+        <nameInEnglish>Canada</nameInEnglish>
+        <countryCode>CAN</countryCode>
+        <currencyCode>124</currencyCode>
+        <cities>
+            <city num="1">
+                <nameInRussian>Торонто</nameInRussian>
+                <nameInEnglish>Toronto</nameInEnglish>
+                <population>2503281</population>
+            </city>
+            <city num="2">
+                <nameInRussian>Монреаль</nameInRussian>
+                <nameInEnglish>Montreal</nameInEnglish>
+                <population>1620693</population>
+            </city>
+            <city num="3">
+                <nameInRussian>Оттава</nameInRussian>
+                <nameInEnglish>Ottawa</nameInEnglish>
+                <population>812129</population>
+            </city>
+        </cities>
+    </country>
+</countries>
